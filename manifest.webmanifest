@@ -1,0 +1,1 @@
+{"name": "편의점선불폰", "short_name": "편의점선불폰", "start_url": "/", "display": "standalone", "background_color": "#F6F3EE", "theme_color": "#0E1017", "icons": [{"src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png"}]}
